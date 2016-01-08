@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\challenge1\ProjectDay1\bin\Debug\ProjectDay1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\challenge1\ProjectDay1\bin\Debug\ProjectDay1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\challenge1\ProjectDay1\bin\Debug\ProjectDay1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\challenge1\ProjectDay1\obj\Debug\ProjectDay1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\challenge1\ProjectDay1\obj\Debug\ProjectDay1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\challenge1\ProjectDay1\obj\Debug\ProjectDay1.pdb

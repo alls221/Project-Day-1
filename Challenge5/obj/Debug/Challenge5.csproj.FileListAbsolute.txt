@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge5\bin\Debug\Challenge5.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge5\bin\Debug\Challenge5.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge5\bin\Debug\Challenge5.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge5\obj\Debug\Challenge5.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge5\obj\Debug\Challenge5.pdb

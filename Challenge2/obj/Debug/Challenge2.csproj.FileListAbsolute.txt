@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge2\bin\Debug\Challenge2.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge2\bin\Debug\Challenge2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge2\bin\Debug\Challenge2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge2\obj\Debug\Challenge2.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge2\obj\Debug\Challenge2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\challenge1\Challenge2\obj\Debug\Challenge2.pdb
